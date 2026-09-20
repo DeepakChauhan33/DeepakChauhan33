@@ -12,7 +12,6 @@ Aspiring Full Stack Developer | Gen AI Enthusiast
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Graduate from Maharishi Dayanand University
 - 💻 Aspiring Full Stack Developer
 - 🤖 Interested in Generative AI and Agentic AI
 - 🚀 I enjoy building responsive and user-friendly applications
