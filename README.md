@@ -68,7 +68,7 @@ AI-powered Market Research and Strategy Engine.
 - Gemini API integration
 - PostgreSQL / Supabase
 
-[View Project](https://github.com/DeepakChauhan33/Meridian-Strategy-Engine)
+[View Project](https://github.com/DeepakChauhan33/Meridian-Strategy-Engine-)
 
 ### 🛒 Storefront Commerce
 
